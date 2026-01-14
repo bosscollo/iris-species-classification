@@ -19,9 +19,6 @@ Each model is trained and evaluated with:
 - ROC AUC Score
 - Cross-validation
 
-## Results
-All three models achieve over **95% accuracy**.
-
 ## How to Run
 1. Install dependencies:
    ```bash
